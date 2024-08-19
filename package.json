@@ -1,0 +1,11 @@
+{
+  "name": "@primate/playground",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "node": "node app.js",
+    "deno": "deno run app.js",
+    "bun": "bun app.js",
+    "bun:native": "bun --bun app.js"
+  }
+}
